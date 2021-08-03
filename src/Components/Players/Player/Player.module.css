@@ -1,0 +1,31 @@
+.container {
+    width: 380px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.position {
+    display: inline-block;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.profileImage {
+    width: 90px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.username {
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.points {
+    margin-left: 20px;
+    display: inline-block;
+}
